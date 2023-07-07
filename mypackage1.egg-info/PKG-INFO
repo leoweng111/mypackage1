@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: mypackage1
+Version: 0.0.4
+Summary: A simple test for launching packages.
+Home-page: https://github.com/dashboard
+Author: Leo Weng
+Author-email: wlaleo@stu.xjtu.edu.cn
+License: XJTU
+Keywords: python,my package
+Classifier: Intended Audience :: All Groups
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
